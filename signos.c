@@ -1,6 +1,6 @@
 
 /* NOME: Sistema Esotérico
-   DESENVOLVIDO POR: Daniela Duarte Carneiro Manoel
+   DESENVOLVIDO POR: Daniela Duarte e Frank Carrilho
    PROFESSOR: Manfrine Silva Santos
    1º Módulo - Técnico em Informática
    FUCAPI - AM
